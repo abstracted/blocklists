@@ -1,1 +1,0 @@
-python generate-domains-blocklist.py > list.txt.tmp && sudo mv -f list.txt.tmp /etc/dnscrypt-proxy/blacklist.txt 
