@@ -4,12 +4,6 @@
 ## dnscrypt-proxy.toml configuration file.
 ##
 
-### General
-*.wikipedia.org @focus
-*.medium.com @focus
-*.quora.com @focus
-*.glassdoor.com @focus
-
 ### Social
 *.twitter.com @focus
 *.reddit.com @focus
@@ -35,6 +29,8 @@
 *.liveleak.com @focus
 *.twitch.tv @focus
 *.aiv-cdn.net @focus
+*.noagendashow.net @focus
+*.unfilter.show @focus
 
 ### News
 *.abc13.com @focus
