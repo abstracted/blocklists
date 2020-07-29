@@ -5,170 +5,170 @@
 ##
 
 ### Social
-*.twitter.com @focus
-*.reddit.com @focus
-*.tumblr.com @focus
-*.pinterist.com @focus
-*.instagram.com @focus
-*.imgur.com @focus
-*.gab.com @focus
-*.minds.com @focus
-*.blogger.com @focus
-*.deviantart.com @focus
+*.twitter.com @focus @sleep
+*.reddit.com @focus @sleep
+*.tumblr.com @focus @sleep
+*.pinterist.com @focus @sleep
+*.instagram.com @focus @sleep
+*.imgur.com @focus @sleep
+*.gab.com @focus @sleep
+*.minds.com @focus @sleep
+*.blogger.com @focus @sleep
+*.deviantart.com @focus @sleep
 
 ### Streaming
-*.crunchyroll.com @focus
-*.netflix.com @focus
-*.youtube.com @focus
-*.youtu.be @focus
-*.hulu.com @focus
-*.bitchute.com @focus
-*.dailymotion.com @focus
-*.lbry.tv @focus
-*.vimeo.com @focus
-*.liveleak.com @focus
-*.twitch.tv @focus
-*.aiv-cdn.net @focus
-*.noagendashow.net @focus
-*.unfilter.show @focus
+*.crunchyroll.com @focus @sleep
+*.netflix.com @focus @sleep
+*.youtube.com @focus @sleep
+*.youtu.be @focus @sleep
+*.hulu.com @focus @sleep
+*.bitchute.com @focus @sleep
+*.dailymotion.com @focus @sleep
+*.lbry.tv @focus @sleep
+*.vimeo.com @focus @sleep
+*.liveleak.com @focus @sleep
+*.twitch.tv @focus @sleep
+*.aiv-cdn.net @focus @sleep
+*.noagendashow.net @focus @sleep
+*.unfilter.show @focus @sleep
 
 ### News
-*.abc13.com @focus
-*.abc7news.com @focus
-*.abcnews.go.com @focus
-*.afr.com @focus
-*.americanaffairsjournal.org @focus
-*.americanbanker.com @focus
-*.autonews.com @focus
-*.barrons.com @focus
-*.bizjournals.com @focus
-*.bloomberg.com @focus
-*.boston.com @focus
-*.bostonglobe.com @focus
-*.bostonherald.com @focus
-*.breitbart.com @focus
-*.britannica.com @focus
-*.businessinsider.com @focus
-*.business-standard.com @focus
-*.cbslocal.com @focus
-*.cbsnews.com @focus
-*.chicagobusiness.com @focus
-*.chicagoreader.com @focus
-*.chicagotribune.com @focus
-*.chicagotribune.com @focus
-*.cnn.com @focus
-*.dailyherald.com @focus
-*.dailypress.com @focus
-*.denverpost.com @focus
-*.denverpost.com @focus
-*.economist.com @focus
-*.examiner.com.au @focus
-*.firstthings.com @focus
-*.fnlondon.com @focus
-*.foreignpolicy.com @focus
-*.fox2now.com @focus
-*.fox5sandiego.com @focus
-*.foxnews.com @focus
-*.harpers.org @focus
-*.hbr.org @focus
-*.houstonpress.com @focus
-*.huffpost.com @focus
-*.inquirer.com @focus
-*.irishtimes.com @focus
-*.japantimes.co.jp @focus
-*.journalnow.com @focus
-*.kdvr.com @focus
-*.kron4.com @focus
-*.ktla.com @focus
-*.kxan.com @focus
-*.labusinessjournal.com @focus
-*.lanacion.com.ar @focus
-*.lastampa.it @focus
-*.latimes.comcalifornia @focus
-*.latimes.com @focus
-*.laweekly.com @focus
-*.lesechos.fr @focus
-*.liberation.fr @focus
-*.lrb.co.uk @focus
-*.mcall.com @focus
-*.mercurynews.com @focus
-*.mercurynews.com @focus
-*.metrotimes.com @focus
-*.mexiconewsdaily.com @focus
-*.miamiherald.com @focus
-*.miaminewtimes.com @focus
-*.minnpost.com @focus
-*.nationalpost.com @focus
-*.nbcnews.com @focus
-*.news12.com @focus
-*.news-gazette.com @focus
-*.newstatesman.com @focus
-*.newsweek.com @focus
-*.newyorker.com @focus
-*.npr.org @focus
-*.nrc.nl @focus
-*.nydailynews.com @focus
-*.nymag.com @focus
-*.nypost.com @focus
-*.nytimes.com @focus
-*.nytimes.com @focus
-*.nzherald.co.nz @focus
-*.observer.com @focus
-*.offthebus.net @focus
-*.orlandosentinel.com @focus
-*.pe.com @focus
-*.phillyvoice.com @focus
-*.phoenixnewtimes.com @focus
-*.politico.com @focus
-*.qz.com @focus
-*.repubblica.it @focus
-*.reuters.comnewsus @focus
-*.riverfronttimes.com @focus
-*.scientificamerican.com @focus
-*.seattlepi.com @focus
-*.seattletimes.com @focus
-*.seattletimes.com @focus
-*.sfchronicle.com @focus
-*.sloanreview.mit.edu @focus
-*.smh.com.au @focus
-*.spectator.co.uk @focus
-*.statista.com @focus
-*.sun-sentinel.com @focus
-*.suntimes.com @focus
-*.technologyreview.com @focus
-*.telegraaf.nl @focus
-*.telegraph.co.uk @focus
-*.theadvocate.com.au @focus
-*.theage.com.au @focus
-*.the-american-interest.com @focus
-*.theatlantic.com @focus
-*.theaustralian.com.au @focus
-*.thediplomat.com @focus
-*.theglobeandmail.com @focus
-*.themarker.com @focus
-*.thenation.com @focus
-*.thenewsrep.com @focus
-*.theonion.com @focus
-*.thestar.com @focus
-*.thetimes.co.uk @focus
-*.the-tls.co.uk @focus
-*.timesofsandiego.com @focus
-*.twincities.com @focus
-*.usatoday.com @focus
-*.vanityfair.com @focus
-*.villagevoice.com @focus
-*.vn.nl @focus
-*.washingtonpost.com @focus
-*.washingtontimes.com @focus
-*.westword.com @focus
-*.wfla.com @focus
-*.wgntv.com @focus
-*.whdh.com @focus
-*.wickedlocal.com @focus
-*.wired.com @focus
-*.wivb.com @focus
-*.worldtruth.tv @focus
-*.wsj.com @focus
-*.wsvn.com @focus
-*.wtop.com @focus
-*.yahoo.com @focus
+*.abc13.com @focus @sleep
+*.abc7news.com @focus @sleep
+*.abcnews.go.com @focus @sleep
+*.afr.com @focus @sleep
+*.americanaffairsjournal.org @focus @sleep
+*.americanbanker.com @focus @sleep
+*.autonews.com @focus @sleep
+*.barrons.com @focus @sleep
+*.bizjournals.com @focus @sleep
+*.bloomberg.com @focus @sleep
+*.boston.com @focus @sleep
+*.bostonglobe.com @focus @sleep
+*.bostonherald.com @focus @sleep
+*.breitbart.com @focus @sleep
+*.britannica.com @focus @sleep
+*.businessinsider.com @focus @sleep
+*.business-standard.com @focus @sleep
+*.cbslocal.com @focus @sleep
+*.cbsnews.com @focus @sleep
+*.chicagobusiness.com @focus @sleep
+*.chicagoreader.com @focus @sleep
+*.chicagotribune.com @focus @sleep
+*.chicagotribune.com @focus @sleep
+*.cnn.com @focus @sleep
+*.dailyherald.com @focus @sleep
+*.dailypress.com @focus @sleep
+*.denverpost.com @focus @sleep
+*.denverpost.com @focus @sleep
+*.economist.com @focus @sleep
+*.examiner.com.au @focus @sleep
+*.firstthings.com @focus @sleep
+*.fnlondon.com @focus @sleep
+*.foreignpolicy.com @focus @sleep
+*.fox2now.com @focus @sleep
+*.fox5sandiego.com @focus @sleep
+*.foxnews.com @focus @sleep
+*.harpers.org @focus @sleep
+*.hbr.org @focus @sleep
+*.houstonpress.com @focus @sleep
+*.huffpost.com @focus @sleep
+*.inquirer.com @focus @sleep
+*.irishtimes.com @focus @sleep
+*.japantimes.co.jp @focus @sleep
+*.journalnow.com @focus @sleep
+*.kdvr.com @focus @sleep
+*.kron4.com @focus @sleep
+*.ktla.com @focus @sleep
+*.kxan.com @focus @sleep
+*.labusinessjournal.com @focus @sleep
+*.lanacion.com.ar @focus @sleep
+*.lastampa.it @focus @sleep
+*.latimes.comcalifornia @focus @sleep
+*.latimes.com @focus @sleep
+*.laweekly.com @focus @sleep
+*.lesechos.fr @focus @sleep
+*.liberation.fr @focus @sleep
+*.lrb.co.uk @focus @sleep
+*.mcall.com @focus @sleep
+*.mercurynews.com @focus @sleep
+*.mercurynews.com @focus @sleep
+*.metrotimes.com @focus @sleep
+*.mexiconewsdaily.com @focus @sleep
+*.miamiherald.com @focus @sleep
+*.miaminewtimes.com @focus @sleep
+*.minnpost.com @focus @sleep
+*.nationalpost.com @focus @sleep
+*.nbcnews.com @focus @sleep
+*.news12.com @focus @sleep
+*.news-gazette.com @focus @sleep
+*.newstatesman.com @focus @sleep
+*.newsweek.com @focus @sleep
+*.newyorker.com @focus @sleep
+*.npr.org @focus @sleep
+*.nrc.nl @focus @sleep
+*.nydailynews.com @focus @sleep
+*.nymag.com @focus @sleep
+*.nypost.com @focus @sleep
+*.nytimes.com @focus @sleep
+*.nytimes.com @focus @sleep
+*.nzherald.co.nz @focus @sleep
+*.observer.com @focus @sleep
+*.offthebus.net @focus @sleep
+*.orlandosentinel.com @focus @sleep
+*.pe.com @focus @sleep
+*.phillyvoice.com @focus @sleep
+*.phoenixnewtimes.com @focus @sleep
+*.politico.com @focus @sleep
+*.qz.com @focus @sleep
+*.repubblica.it @focus @sleep
+*.reuters.comnewsus @focus @sleep
+*.riverfronttimes.com @focus @sleep
+*.scientificamerican.com @focus @sleep
+*.seattlepi.com @focus @sleep
+*.seattletimes.com @focus @sleep
+*.seattletimes.com @focus @sleep
+*.sfchronicle.com @focus @sleep
+*.sloanreview.mit.edu @focus @sleep
+*.smh.com.au @focus @sleep
+*.spectator.co.uk @focus @sleep
+*.statista.com @focus @sleep
+*.sun-sentinel.com @focus @sleep
+*.suntimes.com @focus @sleep
+*.technologyreview.com @focus @sleep
+*.telegraaf.nl @focus @sleep
+*.telegraph.co.uk @focus @sleep
+*.theadvocate.com.au @focus @sleep
+*.theage.com.au @focus @sleep
+*.the-american-interest.com @focus @sleep
+*.theatlantic.com @focus @sleep
+*.theaustralian.com.au @focus @sleep
+*.thediplomat.com @focus @sleep
+*.theglobeandmail.com @focus @sleep
+*.themarker.com @focus @sleep
+*.thenation.com @focus @sleep
+*.thenewsrep.com @focus @sleep
+*.theonion.com @focus @sleep
+*.thestar.com @focus @sleep
+*.thetimes.co.uk @focus @sleep
+*.the-tls.co.uk @focus @sleep
+*.timesofsandiego.com @focus @sleep
+*.twincities.com @focus @sleep
+*.usatoday.com @focus @sleep
+*.vanityfair.com @focus @sleep
+*.villagevoice.com @focus @sleep
+*.vn.nl @focus @sleep
+*.washingtonpost.com @focus @sleep
+*.washingtontimes.com @focus @sleep
+*.westword.com @focus @sleep
+*.wfla.com @focus @sleep
+*.wgntv.com @focus @sleep
+*.whdh.com @focus @sleep
+*.wickedlocal.com @focus @sleep
+*.wired.com @focus @sleep
+*.wivb.com @focus @sleep
+*.worldtruth.tv @focus @sleep
+*.wsj.com @focus @sleep
+*.wsvn.com @focus @sleep
+*.wtop.com @focus @sleep
+*.yahoo.com @focus @sleep

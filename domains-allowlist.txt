@@ -16,3 +16,4 @@ google.com
 *.paypal.com
 *.spotify.com
 *.facebook.com
+*.jsdelivr.net
