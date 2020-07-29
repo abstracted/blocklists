@@ -10,11 +10,11 @@ whitelist="${dir}/domains-allowlist.txt"
 ./generate-domains-blocklist.py -o $blacklist
 
 # Copy the blacklist
-sudo cat $blacklist | sudo tee $blacklist_file
+[ $? -eq 0 ] && sudo cat $blacklist | sudo tee $blacklist_file
 # Copy the whitelist
-sudo cat $whitelist | sudo tee $whitelist_file
+[ $? -eq 0 ] && sudo cat $whitelist | sudo tee $whitelist_file
 
 # Refresh the service
-sudo systemctl restart dnscrypt-proxy.service
+[ $? -eq 0 ] && sudo systemctl restart dnscrypt-proxy.service
 
 exit 0
