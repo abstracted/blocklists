@@ -7,7 +7,7 @@ blacklist="${dir}/domains-blacklist.txt"
 whitelist="${dir}/domains-allowlist.txt"
 
 # Generate the blacklist
-./generate-domains-blocklist.py -o $blacklist
+sudo ./generate-domains-blocklist.py -o $blacklist
 
 # Copy the blacklist
 [ $? -eq 0 ] && sudo cat $blacklist | sudo tee $blacklist_file
