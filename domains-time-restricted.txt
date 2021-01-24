@@ -29,6 +29,8 @@
 *.liveleak.com @focus
 *.twitch.tv @focus
 *.aiv-cdn.net @focus
+*.noagendashow.net @focus
+*.unfilter.show @focus
 
 ### News
 *.abc13.com @focus

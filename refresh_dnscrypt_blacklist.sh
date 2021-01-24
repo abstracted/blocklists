@@ -15,6 +15,6 @@ echo -e "\nCopy the whitelist"
 [ $? -eq 0 ] && sudo cat $whitelist | sudo tee $whitelist_file
 
 echo -e "\nRefresh the service"
-[ $? -eq 0 ] && sudo systemctl restart dnscrypt-proxy.service
+sudo systemctl restart dnscrypt-proxy.service
 
 exit 0
