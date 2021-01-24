@@ -17,4 +17,3 @@ tracker.*
 ### Blocklist
 ibpxl.com
 internetbrands.com
-motd.ubuntu.com

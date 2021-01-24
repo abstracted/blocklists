@@ -1,15 +1,9 @@
 ## Rules to be applied at specific times
-##
+## 
 ## This requires a time schedule to be defined in the
 ## dnscrypt-proxy.toml configuration file.
-##
-
-### General
-*.wikipedia.org @focus
-*.medium.com @focus
-*.quora.com @focus
-*.glassdoor.com @focus
-
+## 
+ 
 ### Social
 *.twitter.com @focus
 *.reddit.com @focus
