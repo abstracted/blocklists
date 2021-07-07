@@ -7,6 +7,7 @@
 *.github.com
 *.github.io
 *.githubusercontent.com
+*.todoist.com
 
 *.googlevideo.com
 *.gstatic.com
@@ -20,4 +21,4 @@
 *.facebook.com
 *.jsdelivr.net
 *.signalr.net
-*.revue.email
+*.letsencrypt.org
